@@ -6,12 +6,6 @@
 
 ![](https://gw.alipayobjects.com/zos/rmsportal/xEdBqwSzvoSapmnSnYjU.png)
 
-- 预览：http://preview.pro.ant.design
-- 首页：http://pro.ant.design/index-cn
-- 使用文档：http://pro.ant.design/docs/getting-started-cn
-- 更新日志: http://pro.ant.design/docs/changelog-cn
-- 常见问题：http://pro.ant.design/docs/faq-cn
-
 ## 特性
 
 - :gem: **优雅美观**：基于 Ant Design 体系精心设计
@@ -84,7 +78,6 @@
 └── package.json
 ```
 
-
 ## 使用
 
 ```bash
@@ -101,17 +94,3 @@ $ npm install ant-design-pro-cli -g
 $ mkdir pro-demo && cd pro-demo
 $ pro new
 ```
-
-更多信息请参考 [使用文档](http://pro.ant.design/docs/getting-started)。
-
-## 兼容性
-
-现代浏览器及 IE11。
-
-## 参与贡献
-
-我们非常欢迎你的贡献，你可以通过以下方式和我们一起共建 :smiley:：
-
-- 在你的公司或个人项目中使用 Ant Design Pro。
-- 通过 [Issue](http://github.com/ant-design/ant-design-pro/issues) 报告 bug 或进行咨询。
-- 提交 [Pull Request](http://github.com/ant-design/ant-design-pro/pulls) 改进 Pro 的代码。
